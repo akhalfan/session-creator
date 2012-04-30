@@ -6,7 +6,7 @@ python generate_session.py [number-of-session] [output-file]
 
 e.g. to create 100 sessions and output to a file 100_sessions.pcap
 
-python generate_session.py 100 100_session.pcap
+python generate_tcp_session.py 100 100_session.pcap
 
 root privileges may be required
 
